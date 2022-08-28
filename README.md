@@ -1,4 +1,4 @@
-# 100 days of pythone starting on September 1st
+# 100 days of python starting on September 1st
 
 ## how to collaborate?
 * use the correct git flow
