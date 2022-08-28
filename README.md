@@ -2,6 +2,7 @@
 
 ## how to collaborate?
 * use the correct git flow
+* Create a folder, and name the folder with your name. <br> Make sure all of your work is put inside the folder.
 * Create a new branch every day. E.g. (moiwa-day-one-variables) <br>
       
 	    The name of the branch must be  your name followed by the day number and the
