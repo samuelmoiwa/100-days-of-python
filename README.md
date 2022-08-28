@@ -1,4 +1,4 @@
-# 100 days of pythone
+# 100 days of pythone starting on September 1st
 
 ## how to collaborate?
 * use the correct git flow
@@ -8,7 +8,7 @@
       topic you are on
     
 * make a PR after completing your tasks for the day
-* The PR will b reviewed and merged into the develop branch...
+* The PR will be reviewed and merged into the develop branch...
 
 **You are welcome to join**
 
