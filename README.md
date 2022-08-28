@@ -8,7 +8,7 @@
       topic you are on
     
 * make a PR after completing your tasks for the day
-* The PR will be reviewed and merged into the develop branch...
+* The PR will be reviewed and merged into the develop branch....
 
 **You are welcome to join**
 
